@@ -6,13 +6,13 @@ Just a person who loved `dev` and `art`.
 
 ___
 
-__*Prothegee*__
+__*protégé*__
 ```
 - A person who is guided and supported by an older and more experienced person or mentor.
 
 - One who is under the care and protection of another.
 ```
-###### guide yourself while no one else will
+###### guide yourself
 
 ___
 
