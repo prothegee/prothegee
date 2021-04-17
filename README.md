@@ -2,7 +2,7 @@
 - 📫 [Contact Me](https://contact.prothegee.com)
 - 🌀 [Website](https://prothegee.com)
 
-An artistan who loved `dev` and `art`.
+An artisan who loved `dev` and `art`.
 
 ___
 
