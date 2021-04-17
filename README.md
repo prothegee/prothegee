@@ -1,8 +1,8 @@
 - 🐙 ART || DEV
 - 📫 [Contact Me](https://contact.prothegee.com)
-- 🌀 [Experimental Page](https://prothegee.com)
+- 🌀 [Website](https://prothegee.com)
 
-Just a person who loved `dev` and `art`.
+An artistan who loved `dev` and `art`.
 
 ___
 
@@ -12,7 +12,7 @@ __*protégé*__
 
 - One who is under the care and protection of another.
 ```
-###### guide yourself
+###### guide yourself...
 
 ___
 
