@@ -2,7 +2,7 @@
 - 📫 [Contact Me](https://contact.prothegee.com)
 - 🌀 [Website](https://prothegee.com)
 
-An artisan on `dev` and `art`.
+An artisan in `art` and `dev`.
 
 ___
 
