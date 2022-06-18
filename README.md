@@ -1,9 +1,7 @@
-- 🐙 ART || DEV
-<!-- - 📫 [Contact Me](https://contact.prothegee.com)
-- 🌀 [Website](https://prothegee.com) -->
-- [Artstation](https://www.artstation.com/prothegee)
-
 An artisan in `art` and `dev`.
+
+- 🐙 [Website](https://prothegee.com) 
+- 🐘 [Artstation](https://www.artstation.com/prothegee)
 
 ___
 
@@ -14,4 +12,4 @@ __*protégé*__
 - One who is under the care and protection of another.
 ```
 
-###### guide yourself...
+###### continue...
