@@ -1,0 +1,20 @@
+##
+## directories
+##
+[Bb][Ii][Nn]
+[Bb][Uu][Ii][Ll][Dd]
+[Bb][Uu][Ii][Ll][Dd][Ss]
+[Oo][Uu][Tt]
+
+
+##
+## extensions
+##
+*.bak*
+*.out*
+*.exe*
+
+
+##
+## files
+##
