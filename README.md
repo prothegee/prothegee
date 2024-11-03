@@ -7,9 +7,8 @@ ___
 
 __*protégé*__
 ```
-- A person who is guided and supported by an older and more experienced person or mentor.
-
 - One who is under the care and protection of another.
+- A person who is guided and supported by an older and more experienced person or mentor.
 ```
 
 ###### continue...
