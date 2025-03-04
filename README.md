@@ -1,6 +1,7 @@
-An artisan in `art` and `dev`.
+han2
 
-<!-- - 🐙 [Website](https://prothegee.com) -->
+<!--
+- 🐙 [Website](https://prothegee.com)
 - 🐘 [Artstation](https://www.artstation.com/prothegee)
 
 ___
@@ -12,3 +13,4 @@ __*protégé*__
 ```
 
 ###### continue...
+-->
