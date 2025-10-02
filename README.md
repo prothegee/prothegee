@@ -7,7 +7,7 @@ __*han2*__
 
 <br>
 
-![streak]([https://github-readme-stats.vercel.app/api?username=prothegee&show_icons=true&theme=transparent](https://streak-stats.demolab.com/?user=prothegee&hide_border=true&theme=transparent))
+![streak](https://streak-stats.demolab.com/?user=prothegee&hide_border=true&theme=transparent)
 
 <br>
 
@@ -27,6 +27,7 @@ __*protégé*__
 
 ###### continue...
 -->
+
 
 
 
