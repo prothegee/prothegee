@@ -1,6 +1,9 @@
 __*han2*__
 
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&theme=transparent&show_icons=true)](https://github.com/prothegee)
+<br>
+
+<!-- [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&theme=transparent&show_icons=true)](https://github.com/prothegee) -->
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&theme=transparent&show_icons=true&layout=donut-vertical)]
 
 <!--
 - 🐙 [Website](https://prothegee.com)
@@ -16,3 +19,4 @@ __*protégé*__
 
 ###### continue...
 -->
+
