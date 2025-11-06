@@ -2,7 +2,7 @@
 
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&theme=transparent&show_icons=true&layout=donut-vertical&hide_border=true)
 
-![stats](https://github-readme-stats.vercel.app/api?username=prothegee&show_icons=true&theme=transparent&hide_border=true)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=prothegee&show_icons=true&theme=transparent&hide_border=true) -->
 
 ![streak](https://streak-stats.demolab.com/?user=prothegee&hide_border=true&theme=transparent)
 
@@ -20,6 +20,7 @@ __*protégé*__
 
 ###### continue...
 -->
+
 
 
 
