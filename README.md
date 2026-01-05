@@ -24,8 +24,9 @@ __*protégé*__
 
 ![langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&theme=transparent&show_icons=true&layout=donut-vertical&hide_border=true&hide_progress=true) -->
 
-[![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+<!-- [![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card) -->
 
 <!-- [![langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&layout=donut-vertical](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&theme=transparent&show_icons=true&layout=donut-vertical&hide_border=true&hide_progress=true))](https://github.com/anuraghazra/github-readme-stats)
 
 ![streak](https://streak-stats.demolab.com/?user=prothegee&hide_border=true&theme=transparent) -->
+
