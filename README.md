@@ -48,9 +48,4 @@ __*in some place in some space in repo*__
 
 [![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![streak](https://streak-stats.demolab.com/?user=prothegee&hide_border=true&theme=transparent)
-
-
-
-
-
+[![streak](https://streak-stats.demolab.com/?user=prothegee&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
