@@ -33,6 +33,7 @@ __*video log content since no pub repo*__
 
 __*in some place in some space in repo*__
 
+- [Network limiter in go/golang](https://github.com/prothegee/network-limiter-go)
 - [Get into Kafka with websocket in c++](https://github.com/drogonframework/drogon-examples/tree/main/drogon-kafka)
 - [Your svelte frontend but just for end-user only](https://github.com/drogonframework/drogon-examples/tree/main/drogon-svelte5-rollup)
 - [Backend in Go, powered with PostgreSQL, Redis & Kafka (kafka trading simulation)](https://github.com/prothegee/showcase-backend-go)
@@ -48,6 +49,7 @@ __*in some place in some space in repo*__
 [![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![streak](https://streak-stats.demolab.com/?user=prothegee&hide_border=true&theme=transparent)
+
 
 
 
