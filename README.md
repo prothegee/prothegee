@@ -26,10 +26,10 @@ __*a whale well*__
 __*in some place, in some space, repo ..*__
 
 - [Network limiter in go/golang](https://github.com/prothegee/network-limiter-go)
-- [Audio transcriber with go & ggml data model](https://github.com/prothegee/showcase-backend-audio_transcriber-go)
 - [Get into Kafka with websocket in c++ drogon](https://github.com/drogonframework/drogon-examples/tree/main/drogon-kafka)
+- [Audio transcriber with go/golang & ggml data model](https://github.com/prothegee/showcase-backend-audio_transcriber-go)
 - [Your svelte frontend but just for end-user only](https://github.com/drogonframework/drogon-examples/tree/main/drogon-svelte5-rollup)
-- [Backend in Go, powered with PostgreSQL, Redis & Kafka (kafka trading simulation)](https://github.com/prothegee/showcase-backend-go)
+- [Backend in go/golang, powered with PostgreSQL, Redis & Kafka (kafka trading simulation)](https://github.com/prothegee/showcase-backend-go)
 
 <br>
 
@@ -52,6 +52,7 @@ __*video log content since no pub repo, vlog ...*__
 <!-- [![streak](https://streak-stats.demolab.com?user=prothegee&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![streak](https://streak-stats.demolab.com?user=prothegee&theme=transparent&hide_border=true&hide_current_streak=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
