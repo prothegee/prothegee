@@ -16,14 +16,14 @@ __*protégé*__
 <br>
 
 
-__*a whale well*__
+__*bookmark:*__
 
 - [Neovim Configuration](https://github.com/prothegee/neovim-prothegee)
-- [Daily System Container](https://github.com/prothegee/system-monitor-container)
+<!-- - [Daily System Container](https://github.com/prothegee/system-monitor-container) -->
 
 <br>
 
-__*highlighted repo ..*__
+__*highlighted repositories:*__
 
 - [Network limiter in go/golang](https://github.com/prothegee/network-limiter-go)
 - [Get into Kafka with websocket in c++ drogon](https://github.com/drogonframework/drogon-examples/tree/main/drogon-kafka)
@@ -33,8 +33,8 @@ __*highlighted repo ..*__
 
 <br>
 
-__*vlog, kinda.. since some example don't have public repo ...*__
-###### mostly in youtube
+__*vlog where some source that not open for public (video preview):*__
+
 - [Cryptography, C++ Backend Library](https://youtu.be/IFKu1ar6cKs)
 - [Godot Engine Frontend Web Platform](https://youtu.be/qbBkc_eAuE8)
 - [Fullstack Drogon with Compiled Svelte Frontend](https://youtu.be/kXDB8DX8uYs)
@@ -52,6 +52,7 @@ __*vlog, kinda.. since some example don't have public repo ...*__
 <!-- [![streak](https://streak-stats.demolab.com?user=prothegee&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![streak](https://streak-stats.demolab.com?user=prothegee&theme=transparent&hide_border=true&hide_current_streak=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
