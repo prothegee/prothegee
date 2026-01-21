@@ -22,7 +22,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&rank_icon=github&hide_border=true
+          options: username=${{ github.repository_owner }}&&theme=transparent&hide_border=true&hide_current_streak=true
           path: data/img/prothegee-stats.svg
           token: ${{ secrets.TOKEN_GITHUB }}
 
@@ -30,17 +30,17 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&theme=transparent&show_icons=true&layout=donut-vertical&hide_border=true&hide_progress=true
+          options: username=${{ github.repository_owner }}&custom_title=Programming Languages&hide_progress=true&hide_border=true&theme=transparent&layout=normal
           path: data/img/prothegee-top_langs.svg
           token: ${{ secrets.TOKEN_GITHUB }}
 
-      # - name: Generate pin card
-      #   uses: readme-tools/github-readme-stats-action@v1
-      #   with:
-      #     card: pin
-      #     options: username=readme-tools&repo=github-readme-stats
-      #     path: data/img/pin-readme-tools-github-readme-stats.svg
-      #     token: ${{ secrets.TOKEN_GITHUB }}
+      - name: Generate pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=github-readme-stats
+          path: data/img/pin-readme-tools-github-readme-stats.svg
+          token: ${{ secrets.TOKEN_GITHUB }}
 
       - name: Commit cards
         run: |
