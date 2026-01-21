@@ -45,17 +45,13 @@ __*vlog where some source that not open for public (video preview):*__
 
 ---
 
-[![langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&layout=donut-vertical](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&theme=transparent&show_icons=true&layout=donut-vertical&hide_border=true&hide_progress=true))](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&layout=donut-vertical](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&theme=transparent&show_icons=true&layout=donut-vertical&hide_border=true&hide_progress=true))](https://github.com/anuraghazra/github-readme-stats) -->
+![langs](./data/img/top-langs.svg)
+
 
 [![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
+
 <!-- [![streak](https://streak-stats.demolab.com?user=prothegee&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
 [![streak](https://streak-stats.demolab.com?user=prothegee&theme=transparent&hide_border=true&hide_current_streak=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
 
