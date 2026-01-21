@@ -1,0 +1,51 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # once a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Ensure output folder
+        run: mkdir -p data/img
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula&rank_icon=github&hide_border=true
+          path: data/img/prothegee-stats.svg
+          token: ${{ secrets.TOKEN_GITHUB }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=transparent&show_icons=true&layout=donut-vertical&hide_border=true&hide_progress=true
+          path: data/img/prothegee-top_langs.svg
+          token: ${{ secrets.TOKEN_GITHUB }}
+
+      # - name: Generate pin card
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     card: pin
+      #     options: username=readme-tools&repo=github-readme-stats
+      #     path: data/img/pin-readme-tools-github-readme-stats.svg
+      #     token: ${{ secrets.TOKEN_GITHUB }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
