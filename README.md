@@ -28,7 +28,7 @@ __*highlighted repositories:*__
 - [Network Limiter in Go](https://github.com/prothegee/network-limiter-go)
 - [Get Into Kafka with Websocket in C++ Drogon](https://github.com/drogonframework/drogon-examples/tree/main/drogon-kafka)
 - [Audio Transcriber with Go & GGML Data Model](https://github.com/prothegee/server-backend-audio_transcriber-go)
-- [Your Svelte Frontend But Just for End-User Only](https://github.com/drogonframework/drogon-examples/tree/main/drogon-svelte5-rollup)
+<!-- - [Your Svelte Frontend But Just for End-User Only](https://github.com/drogonframework/drogon-examples/tree/main/drogon-svelte5-rollup) -->
 - [Backend in Go, Powered With PostgreSQL, Redis, WebSocket, & Kafka](https://github.com/prothegee/server-backend-go)
 
 <br>
@@ -50,5 +50,6 @@ __*vlog where some source that not open for public (video preview):*__
 [![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false&border=none)](https://git.io/awesome-stats-card)
 
 [![streaks](https://streak-stats.demolab.com/?user=prothegee&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
