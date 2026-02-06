@@ -45,12 +45,13 @@ __*vlog where some source that not open for public (video preview):*__
 
 ---
 
-![langs](./data/img/prothegee-top_langs.svg)
+[![alt text](./data/img/prothegee-top_langs.svg)](#)
 <!-- [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&hide_progress=true&hide_border=true&theme=dark&layout=normal)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false&border=none)](https://git.io/awesome-stats-card)
 
 [![streaks](https://streak-stats.demolab.com/?user=prothegee&theme=dark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 
