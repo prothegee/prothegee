@@ -34,6 +34,14 @@ jobs:
           path: data/img/prothegee-top_langs.svg
           token: ${{ secrets.TOKEN_GITHUB }}
 
+      - name: Generate top languages card with progress
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&custom_title=Programming Languages&hide_border=true&theme=transparent&layout=normal
+          path: data/img/prothegee-top_langs_progress.svg
+          token: ${{ secrets.TOKEN_GITHUB }}
+
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
