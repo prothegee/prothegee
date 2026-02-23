@@ -26,8 +26,8 @@ __*bookmark:*__
 
 __*highlighted repositories:*__
 
-- [Network Limiter in Go in http & gRPC](https://github.com/prothegee/network-limiter-go)
 - [Chat App With Vue + Ruby on Rails](https://github.com/prothegee/chat_app-ruby-vue)
+- [Network Limiter in Go in http & gRPC](https://github.com/prothegee/network-limiter-go)
 - [Real-Time Audio Transcriber/Detector With Go, GGML Data Model, & gRPC](https://github.com/prothegee/server-backend-audio_transcriber-go)
 - [Server Backend in Go, Powered With PostgreSQL, Redis, WebSocket, & Kafka](https://github.com/prothegee/server-backend-go)
 - [Immediate Trading Simulation With C++ Drogon Framework & Kafka Websocket](https://github.com/drogonframework/drogon-examples/tree/main/drogon-kafka)
