@@ -3,10 +3,10 @@ name: Update README cards
 on:
   push:
     branches:
-      - main
+      - main # also update on push
   schedule:
-    # - cron: "0 0 * * *" # once a day
-    - cron: "0 */3 * * *" # every 3 hours
+    - cron: "0 0 * * *" # once a day
+    # - cron: "0 */3 * * *" # every 3 hours
   workflow_dispatch:
 
 jobs:
@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&custom_title=Programming Languages&hide_progress=true&hide_border=true&theme=transparent&layout=normal&hide=cmake
+          options: username=${{ github.repository_owner }}&custom_title=Programming Languages&hide_progress=true&hide_border=true&theme=transparent&layout=normal&hide=cmake,shell,bash,lua
           path: data/img/prothegee-top_langs.svg
           token: ${{ secrets.TOKEN_GITHUB }}
 
