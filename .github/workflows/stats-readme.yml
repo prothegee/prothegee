@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&custom_title=Programming Languages&hide_progress=true&hide_border=true&theme=transparent&layout=normal&hide=cmake,shell,bash,lua,vue&langs_count=9
+          options: username=${{ github.repository_owner }}&custom_title=Programming Languages&hide_progress=true&hide_border=true&theme=transparent&layout=normalhide=cmake,shell,bash,dockerfile,lua,vue,react,svelte,html,htmx,css,scss,csp,vimscript,vim+script,vim%script,vim script,powershell,roff&langs_count=10&
           path: data/img/prothegee-top_langs.svg
           token: ${{ secrets.TOKEN_GITHUB }}
 
