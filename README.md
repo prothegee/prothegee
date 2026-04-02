@@ -5,7 +5,7 @@
 
 # Profile
 
-Sr. Software Engineer & Technical Specialist.
+*Systems Thinking | Software Engineer*
 
 ---
 
