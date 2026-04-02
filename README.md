@@ -21,6 +21,26 @@ __*protégé*__
 
 ###### > *click to open*
 
+
+<details close>
+<summary>HTTP Server Design in Zig (Three Concurrency Models)</summary>
+
+<br>
+
+• Designed three minimal HTTP server versions in Zig with identical routing: single-threaded (54k req/s), thread-per-connection (254k req/s), and worker pool with multiple acceptors (248k req/s, 5× lower latency than v2).
+
+• Engineered a fixed-size thread pool with per-CPU acceptor threads using SO_REUSEPORT, eliminating per-connection thread churn while maintaining throughput.
+
+• Quantified trade-offs: v2 suits most balanced workloads; v3 delivers 38.9µs avg latency for latency-sensitive services.
+
+<br>
+
+Source Code & Documentation: https://github.com/prothegee/http-server-design-architect-in-zig
+
+</details>
+
+<br>
+
 <details close>
 <summary>On-Site Campaign Activation System (IoT & Real-Time Data)</summary>
 
@@ -34,9 +54,7 @@ __*protégé*__
 
 <br>
 
-Link to Full Design Doc: https://gist.github.com/prothegee/2f448ff384c64e9cb58968fd6ef5530d
-
----
+Source Code & Documentation: https://github.com/prothegee/server-backend-audio_transcriber-go
 
 </details>
 
