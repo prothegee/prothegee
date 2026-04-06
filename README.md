@@ -31,7 +31,7 @@ __*protégé*__
 ###### > *click to open*
 
 
-<!-- <details close>
+<details close>
 <summary>HTTP Server Design in Zig (Three Concurrency Models)</summary>
 
 <br>
@@ -48,7 +48,7 @@ Source Code & Documentation: https://github.com/prothegee/http-server-design-arc
 
 </details>
 
-<br> -->
+<br>
 
 <details close>
 <summary>On-Site Campaign Activation System (IoT & Real-Time Data)</summary>
