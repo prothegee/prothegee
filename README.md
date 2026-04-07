@@ -9,11 +9,10 @@
 
 ```
 Senior Software Engineer | 7+ yrs production systems. Event-driven specialist:
-Kafka WebSocket pipelines (< 50ms), idempotency, backpressure handling. Owned
-99.9% SLOs, graceful degradation patterns. Led 5 pods, raised code review
-bars, cut onboarding 50%. Polyglot: C++/Go/JS. SQL+NoSQL (Postgres/ScyllaDB/
-Redis). ADRs/RFCs documented. Built local LLM moderation, crypto libraries.
-Pragmatic scale.
+Kafka WebSocket pipelines (< 50ms), idempotency, backpressure handling. Owned 99.9% SLOs, graceful
+degradation patterns. Led 5 pods, raised code review bars, cut onboarding 50%. Polyglot: C++,Go,JS/TS.
+SQL+NoSQL (Postgres/ScyllaDB/ Redis). ADRs/RFCs documented. Built local LLM moderation, crypto
+libraries. Pragmatic scale. Systems Thinking.
 ```
 
 ---
