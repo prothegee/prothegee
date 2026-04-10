@@ -62,3 +62,4 @@ jobs:
           git add data/img/*.svg
           git commit -m "Update README cards" || exit 0
           git push
+
