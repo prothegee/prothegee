@@ -8,11 +8,12 @@
 *Systems Thinking | Software Engineer*
 
 ```
-Senior Software Engineer | 7+ yrs production systems. Event-driven specialist:
-Kafka WebSocket pipelines (< 50ms), idempotency, backpressure handling. Owned 99.9% SLOs, graceful
-degradation patterns. Led 5 pods, raised code review bars, cut onboarding 50%. Polyglot: C++,Go,JS/TS.
-SQL+NoSQL (Postgres/ScyllaDB/ Redis). ADRs/RFCs documented. Built local LLM moderation, crypto
-libraries. Pragmatic scale. Systems Thinking.
+Senior Software Engineer, 7+ yrs production systems.
+Polyglot engineer C++, Go, and JS/TS. SQL and NoSQL (Postgres, ScyllaDB, Redis).
+Pragmatic systems thinking approach to evaluate trade-offs while looking for performance,
+reliability, and user experience. Unique blend of engineering and creative background enable effective
+collaboration across technical and non-technical teams. Documents ADRs/RFCs and technical leadership
+across multi-cloud environments.
 ```
 
 ---
