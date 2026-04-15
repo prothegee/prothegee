@@ -97,7 +97,7 @@ Source Code & Documentation: https://github.com/prothegee/server-backend-audio_t
 • Implemented reusable rate-limiting middleware for both net/http (Go stdlib) and gRPC (google.golang.org/grpc), ensuring consistent traffic governance across service boundaries with minimal external dependencies.
 
 • Designed JSON-based configuration loading for dynamic adjustment of thresholds (max requests/IP, time window, cleanup intervals) without code redeployment, supporting rapid environment adaptation.
-    
+
 • Engineered goroutine-based cleanup routine to prune stale IP entries, preventing memory leaks during long-running operations while maintaining O(1) lookup performance for active rate-limit checks.
 
 <br>
