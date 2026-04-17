@@ -51,25 +51,6 @@ Source Code & Documentation: https://github.com/prothegee/http-server-design-arc
 <br>
 
 <details close>
-<summary>On-Site Campaign Activation System (IoT & Real-Time Data)</summary>
-
-<br>
-
-• Designed end-to-end architecture for a high-traffic marketing campaign integrating physical IoT vending machines with digital user experiences.
-
-• Authored comprehensive HLD and LLD documents defining strict API contracts, WebSocket geofencing logic, and session security protocols.
-
-• Mitigated third-party integration risks by implementing "defensive interfaces" and mock services for undocumented client/IoT systems ("Grey Areas"), ensuring zero development blockers.
-
-<br>
-
-Source Code & Documentation: https://github.com/prothegee/server-backend-audio_transcriber-go
-
-</details>
-
-<br>
-
-<details close>
 <summary>AI-Powered Real-Time Audio Moderation System</summary>
 
 <br>
@@ -85,6 +66,43 @@ Source Code & Documentation: https://github.com/prothegee/server-backend-audio_t
 Watch Demo: https://youtu.be/IwSptYtNRzM
 
 Source Code & Documentation: https://github.com/prothegee/server-backend-audio_transcriber-go
+</details>
+
+<br>
+
+<details close>
+<summary>GameStore Frontend (Next.js 16 + Steam UI)</summary>
+
+<br>
+
+• Built a Steam-inspired game store with Next.js 16 App Router: hybrid SSR/client rendering, infinite scroll catalog (100+ games), i18n (en/id), and optimistic cart updates via server actions.
+
+• Engineered secure server-first state: HTTP-only session cookies, signed cart persistence, and client-side validation — delivering responsive UX with 44ms+ TTI on localized routes.
+
+• Validated with Vitest + Playwright E2E; documented via ADRs, HLD/LLD, and feature specs for scalable team development.
+
+<br>
+
+Source Code & Documentation: https://github.com/prothegee/gamestore-fe-store
+</details>
+
+<br>
+
+<details close>
+<summary>On-Site Campaign Activation System (IoT & Real-Time Data)</summary>
+
+<br>
+
+• Designed end-to-end architecture for a high-traffic marketing campaign integrating physical IoT vending machines with digital user experiences.
+
+• Authored comprehensive HLD and LLD documents defining strict API contracts, WebSocket geofencing logic, and session security protocols.
+
+• Mitigated third-party integration risks by implementing "defensive interfaces" and mock services for undocumented client/IoT systems ("Grey Areas"), ensuring zero development blockers.
+
+<br>
+
+Source Code & Documentation: https://github.com/prothegee/server-backend-audio_transcriber-go
+
 </details>
 
 <br>
