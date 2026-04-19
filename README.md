@@ -88,6 +88,26 @@ Source Code & Documentation: https://github.com/prothegee/gamestore-fe-store
 
 <br>
 
+
+<details close>
+<summary>Flutter Shop Case (Layered Mobile E-Commerce Architecture)</summary>
+
+<br>
+
+• Designed and implemented a production-ready Flutter shopping application with authentication, real-time search, cart management, and checkout flow — structured via layered architecture (Presentation → Providers → Services → Models).
+
+• Engineered isolate-based background tasks for cache cleanup, analytics sync, and data prefetching without blocking the UI thread; persisted session state and theme preferences via SharedPreferences.
+
+• Quantified modularity: 9 core services/providers, 5 main UI screens, 100% local feature coverage with clear backend integration points marked via `NOTE:`/`TODO:` annotations for seamless API adoption.
+
+<br>
+
+Source Code & Documentation: https://github.com/prothegee/flutter_shop_case
+
+</details>
+
+<br>
+
 <details close>
 <summary>On-Site Campaign Activation System (IoT & Real-Time Data)</summary>
 
