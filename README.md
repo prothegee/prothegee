@@ -31,7 +31,7 @@ __*protégé*__
 ###### > *click to open*
 
 
-<details close>
+<!--<details close>
 <summary>HTTP Server Design in Zig (Three Concurrency Models)</summary>
 
 <br>
@@ -46,7 +46,7 @@ __*protégé*__
 
 Source Code & Documentation: https://github.com/prothegee/http-server-design-architect-in-zig
 
-</details>
+</details>-->
 
 <br>
 
