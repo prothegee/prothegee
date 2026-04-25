@@ -84,10 +84,29 @@ Source Code & Documentation: https://github.com/prothegee/server-backend-audio_t
 <br>
 
 Source Code & Documentation: https://github.com/prothegee/gamestore-fe-store
+
 </details>
 
 <br>
 
+<details close>
+<summary>GameStore ERP (Vue 3 + Internal Dashboard)</summary>
+
+<br>
+
+• Built a role-based internal ERP dashboard with Vue 3 (Composition API) covering 8 business modules — products, orders, customers, suppliers, promotions, media, reports, and staff accounts — with a mock-first localStorage layer and clear API integration points per module.
+
+• Implemented client-side RBAC via Vue Router guards (4 roles: superadmin, manager, staff, viewer) and 8 Pinia stores following a load-seed-persist pattern, keeping the UI fully operational without a live backend.
+
+• Delivered a complete frontend quality toolchain: ESLint 10 flat config + Prettier 3, 65 Vitest unit tests, and Playwright E2E — deployed as a static SPA via `serve` + PM2 behind HAProxy with SNI routing and deny-by-default for unmatched hosts.
+
+<br>
+
+Source Code & Documentation: https://github.com/prothegee/gamestore-fe-erp
+
+</details>
+
+<br>
 
 <details close>
 <summary>Flutter Shop Case (Layered Mobile E-Commerce Architecture)</summary>
@@ -103,6 +122,23 @@ Source Code & Documentation: https://github.com/prothegee/gamestore-fe-store
 <br>
 
 Source Code & Documentation: https://github.com/prothegee/flutter_shop_case
+
+</details>
+
+<br>
+
+<details close>
+<summary>ZIX. A micro net-frame-work.</summary>
+
+<br>
+
+• Designed & implement network library in zig 0.16.x pushing std.
+
+• Where the wire meets the will. Every byte owned, every thread deliberate, every route explicit. No hidden cost. Just clean metal and honest code - predictable by principle.
+
+<br>
+
+Source Code & Documentation: https://github.com/prothegee/zix
 
 </details>
 
