@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Prana Ron's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 1795, Total PRs: 559, Total Issues: 34, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  (last year) : 1822, Total PRs: 561, Total Issues: 34, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 116.59977408000245;
+        stroke-dashoffset: 116.57819880150006;
       }
     }
   
@@ -180,7 +180,7 @@
         x="199.01"
         y="12.5"
         data-testid="prs"
-      >559</text>
+      >561</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
