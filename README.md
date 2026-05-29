@@ -128,7 +128,7 @@ Source Code & Documentation: https://github.com/prothegee/flutter_shop_case
 <br>
 
 <details close>
-<summary>ZIX. A micro net-frame-work.</summary>
+<summary>ZIX. A network backend library written in Zig.</summary>
 
 <br>
 
