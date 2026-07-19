@@ -8,7 +8,7 @@
 *Systems Thinking | Software Engineer*
 
 ```
-Senior Software Engineer, 7+ yrs production systems.
+Senior Software Engineer, 8+ yrs production systems.
 Polyglot engineer C++, Go, and JS/TS. SQL and NoSQL (Postgres, ScyllaDB, Redis).
 Pragmatic systems thinking approach to evaluate trade-offs while looking for performance,
 reliability, and user experience. Unique blend of engineering and creative background enable effective
