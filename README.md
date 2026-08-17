@@ -18,11 +18,26 @@ across multi-cloud environments.
 
 ---
 
-__*protégé*__
-```
-- One who is under the care and protection of another.
-- A person who is guided and supported by an older and more experienced person or mentor.
-```
+## __*Stats:*__
+
+[![langs](./data/img/prothegee-top_langs.svg)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&hide_progress=true&hide_border=true&theme=dark&layout=normal)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false&border=none&Background=DD272700)](https://git.io/awesome-stats-card)
+
+[![streaks](https://streak-stats.demolab.com/?user=prothegee&theme=dark&hide_border=true&background=DD272700)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<br>
+
+---
+
+## __*Bookmark:*__
+
+- [Neovim Configuration](https://github.com/prothegee/nvim)
+- [Podman Daily Container](https://github.com/prothegee/.podman-container)
+<!-- - [Daily System Container](https://github.com/prothegee/system-monitor-container) -->
+
+<br>
 
 ---
 
@@ -128,7 +143,7 @@ Source Code & Documentation: https://github.com/prothegee/flutter_shop_case
 <br>
 
 <details close>
-<summary>ZIX. A network backend library written in Zig.</summary>
+<summary>ZIX. A high-performance network backend library & http engine written in Zig.</summary>
 
 <br>
 
@@ -303,24 +318,11 @@ Source Code & Documentation: https://github.com/drogonframework/drogon-examples/
 
 ---
 
-## __*Stats:*__
-
-[![langs](./data/img/prothegee-top_langs.svg)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prothegee&hide_progress=true&hide_border=true&theme=dark&layout=normal)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![stats](https://awesome-github-stats.azurewebsites.net/user-stats/prothegee?cardType=level-alternate&theme=dark&preferLogin=false&border=none&Background=DD272700)](https://git.io/awesome-stats-card)
-
-[![streaks](https://streak-stats.demolab.com/?user=prothegee&theme=dark&hide_border=true&background=DD272700)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<br>
-
----
-
-## __*Bookmark:*__
-
-- [Neovim Configuration](https://github.com/prothegee/nvim)
-- [Podman Daily Container](https://github.com/prothegee/.podman-container)
-<!-- - [Daily System Container](https://github.com/prothegee/system-monitor-container) -->
+__*protégé*__
+```
+- One who is under the care and protection of another.
+- A person who is guided and supported by an older and more experienced person or mentor.
+```
 
 <br>
 
