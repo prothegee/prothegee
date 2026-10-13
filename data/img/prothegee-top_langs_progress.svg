@@ -126,7 +126,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="69.4311745237907%">
+      <svg data-testid="lang-progress" width="69.42617371782569%">
         <rect
             height="8"
             fill="#ec915c"
@@ -145,7 +145,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="10.25455130179749%">
+      <svg data-testid="lang-progress" width="10.253812713956073%">
         <rect
             height="8"
             fill="#00ADD8"
@@ -164,7 +164,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="6.093405722462302%">
+      <svg data-testid="lang-progress" width="6.09296684266669%">
         <rect
             height="8"
             fill="#f34b7d"
@@ -183,7 +183,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="4.66842259050115%">
+      <svg data-testid="lang-progress" width="4.668086345641433%">
         <rect
             height="8"
             fill="#f1e05a"
@@ -202,7 +202,7 @@
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="4.10153485344404%">
+      <svg data-testid="lang-progress" width="4.101239438882764%">
         <rect
             height="8"
             fill="#3178c6"
@@ -350,7 +350,7 @@
   </g><g transform="translate(0, 480)">
     <g class="stagger" style="animation-delay: 2250ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">PLpgSQL</text>
-      <text x="215" y="34" class="lang-name">0.09%</text>
+      <text x="215" y="34" class="lang-name">0.10%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
